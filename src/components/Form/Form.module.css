@@ -1,0 +1,11 @@
+.label {
+    color: rgb(94, 16, 167);
+}
+.input {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button {
+    cursor: pointer;
+}
